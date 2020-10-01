@@ -17,3 +17,6 @@ Usage:
                 "sitemap": 
                     ...sitemap json exported from webscraper.io chrome extension...
             }'
+
+
+Thanks to [Jessie Frazelle](https://twitter.com/jessfraz) for https://raw.githubusercontent.com/jfrazelle/dotfiles/master/etc/docker/seccomp/chrome.json
